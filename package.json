@@ -1,0 +1,30 @@
+{
+  "name": "ARLIFXController",
+  "version": "1.0.0",
+  "description": "AR demo",
+  "main": "arcontroller.js",
+  "directories": {
+
+  },
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAZARDU5/ARLIFXController.git"
+  },
+  "author": "Michael Andrew (michael@uxvirtual.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HAZARDU5/ARLIFXController/issues"
+  },
+  "homepage": "https://github.com/HAZARDU5/ARLIFXController#readme",
+  "devDependencies": {
+    "serve": "^3.4.1"
+  },
+  "dependencies": {
+
+  }
+}
